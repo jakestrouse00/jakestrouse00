@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=jakestrouse00&show_icons=true&theme=algolia&hide=stars,issues&count_private=true&bg_color=00000000)![](https://github-readme-stats.vercel.app/api/top-langs?username=jakestrouse00&show_icons=true&theme=algolia)
+![](https://github-readme-stats.vercel.app/api?username=jakestrouse00&show_icons=true&theme=algolia&hide=stars,issues&count_private=true&bg_color=00000000)![](https://github-readme-stats.vercel.app/api/top-langs?username=jakestrouse00&show_icons=true&theme=algolia&bg_color=00000000)
